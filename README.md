@@ -30,11 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!(Walkthrough)[walkthrough.gif]
+![Walkthrough](walkthrough.gif)
 
 ## Notes
 
-Working with a contrained layout took some time to learn, especially when I added a border. I had to add a contrained layout within the constrained layout to have the spacing work. I spent some time deciding where to do the api call to get the video key and how to pass Movie data throughout the activties. I put the call to launching the video activity inside the success function of the video_key api call to prevent no response on click. I added more values to the movie model for ease of use.
+Working with a contrained layout took some time to learn, especially when I added a border. I had to add a contrained layout within the constrained layout to have the spacing work. I spent some time deciding where to do the api call to get the video key and how to pass Movie data throughout the activties. I put the call to launching the video activity inside the success function of the video_key api call to prevent no responses on click. I added more values to the movie model for ease of use in moving data between activities.
 
 ## Open-source libraries used
 
