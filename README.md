@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](walkthrough.gif)
+![Walkthrough](walkthroughP.gif)
+![Walkthrough](walkthroughL.gif)
 
 ## Notes
 
